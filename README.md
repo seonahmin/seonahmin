@@ -1,5 +1,9 @@
-### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=8FF1D2&height=300&section=header&text=Welcome&desc=This%20is%20Seonah's%20GitHub%20Profile!&descSize=15&descAlign=55&descAlignY=63&fontSize=70&fontColor=0A3429)
+<div align=center>
+<a href="https://seonahhh.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-brightgreen?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sunah-min-292b991b6/" target="_blank"><img src="https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://www.instagram.com/seon_ahhh/" target="_blank"><img src="https://img.shields.io/badge/instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white"/></a>
+</div>
 <!--
 **seonahmin/seonahmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
