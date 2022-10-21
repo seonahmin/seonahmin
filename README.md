@@ -1,4 +1,8 @@
+<div align=center>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8FF1D2&height=300&section=header&text=Hello!&desc=This%20is%20Seonah's%20GitHub%20Profile.&descSize=15&descAlign=50&descAlignY=63&fontSize=70&fontColor=0A3429)
+</div>
+
 <div align=center>
 <p>:information_desk_person: ᴀʙᴏᴜᴛ ᴍᴇ :information_desk_person:</p>
 <a href="https://seonahhh.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-brightgreen?style=flat-square&logo=Blogger&logoColor=white"/></a>
@@ -7,9 +11,31 @@
 <br>
 <br>
 <p>:fire: ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ :fire:</p>
-<img src="https://img.shields.io/badge/python-informational?style=flat&logo=Python&logoColor=white">
+
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 <img src="https://img.shields.io/badge/PyTorch-red?style=flat&logo=PyTorch&logoColor=white">
+
 </div>
+
+<br/>
+<br/>
+
+<div align=center>
+<p>안녕하세요</p>
+<p>사람들에게 도움을 줄 수 있는 Computer Vision 기술 개발에 관심이 많은 민선아 입니다 :)</p>
+</div>
+<br/>
+<br/>
+
+<div align=center>
+
+![Seonah's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonahmin&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seonahmin)](https://solved.ac/seonahmin/)
+</div>
+
+
 <!--
 **seonahmin/seonahmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
