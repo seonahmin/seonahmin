@@ -13,9 +13,10 @@
 <p>:fire: ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ :fire:</p>
 
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-<img src="https://img.shields.io/badge/PyTorch-red?style=flat&logo=PyTorch&logoColor=white">
+![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
 
 </div>
 
